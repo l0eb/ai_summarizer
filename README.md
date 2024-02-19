@@ -1,0 +1,2 @@
+# ai_summarizer
+A Web based application with Redux for summarizing articles using GPT-3.5
