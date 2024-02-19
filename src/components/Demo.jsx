@@ -79,7 +79,7 @@ const Demo = () => {
             <span className='font-satoshi font-normal text-gray-700'> 
               {error?.data?.error}
             </span>
-            well that wasnt supposed to happen
+              Error
           </p>
         ):(
           article.summary && (
